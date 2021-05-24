@@ -2,7 +2,10 @@
 .vs/
 Content/LogCabin/*
 Content/OfficeScene/*
-
+Content/DiningSets/*
+Content/FreeFurniturePack/*
+Content/ScienceLab/*
+Plugins/promethean/*
 
 # Compiled Object files
 *.slo
