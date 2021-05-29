@@ -12,10 +12,6 @@
 	],
 	"Plugins": [
 		{
-			"Name": "promethean",
-			"Enabled": true
-		},
-		{
 			"Name": "DatasmithImporter",
 			"Enabled": true
 		}
