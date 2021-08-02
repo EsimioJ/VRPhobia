@@ -18,6 +18,10 @@
 		{
 			"Name": "promethean",
 			"Enabled": true
+		},
+		{
+			"Name": "ControlRig",
+			"Enabled": true
 		}
 	]
 }
