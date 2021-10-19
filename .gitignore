@@ -7,6 +7,9 @@ Content/FreeFurniturePack/*
 Content/ScienceLab/*
 Plugins/promethean/*
 Content/InteriorProps/*
+Content/OldBrickHouse/*
+Content/SoulCave/*
+Content/SoulCity/*
 
 # Compiled Object files
 *.slo
